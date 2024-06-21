@@ -1,6 +1,10 @@
 XMRIG CROT
 Masukin command satu demi satu !!!
 
+DOWNLOAD TERMUX
+https://f-droid.org/repo/com.termux_118.apk
+
+
 1.
 ```
 pkg install root-repo
