@@ -9,7 +9,7 @@ https://f-droid.org/repo/com.termux_118.apk
 ```
 pkg install root-repo
 pkg update && pkg upgrade -y
-pkg install proot-distro cmake git -y
+pkg install proot-distro cmake git wget -y
 ```
 
 2.
