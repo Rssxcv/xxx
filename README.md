@@ -29,10 +29,15 @@ apt update && apt upgrade -y
 
 5.
 ```
+apt-get install build-essential automake libssl-dev libcurl4-openssl-dev libjansson-dev libgmp-dev zlib1g-dev git -y
+```
+
+6.
+```
 wget -q https://github.com/Rssxcv/xxx/blob/main/xmrig.tar.gz && tar -xvf xmrig.tar.gz && chmod +x xmrig
 ```
 
-6. PILIH SC
+7. PILIH SC
 >>> SC DEFAULT
 ```
 ./xmrig -a ALGOCOIN -o POOLLU -u WALLETLU -p x -t$(nproc --all)
