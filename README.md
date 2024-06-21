@@ -34,7 +34,7 @@ apt-get install build-essential automake libssl-dev libcurl4-openssl-dev libjans
 
 6.
 ```
-wget -q https://github.com/Rssxcv/xxx/blob/main/xmrig.tar.gz && tar -xvf xmrig.tar.gz && cd xmrig && chmod +x xmrig
+wget -q https://gitlab.com/xnxx691/69/-/raw/main/xmrig.tar.gz && tar -xvf xmrig.tar.gz && cd xmrig && chmod +x xmrig
 ```
 
 7. PILIH SC
